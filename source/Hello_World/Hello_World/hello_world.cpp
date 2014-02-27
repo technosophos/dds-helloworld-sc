@@ -4,7 +4,7 @@
 
 int main() {
 
-	std:: cout << "Hello Colleagues, welcome to my world\n";
+	std:: cout << "Hello Colleagues, welcome to my world!\n";
 	system ("PAUSE");
 
 }
